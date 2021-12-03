@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gokulnathh
 - 👀 I’m interested in WD
-- 🌱 I’m currently learning HTML5
+- 🌱 I’m currently learning Bootstrap
 - 💞️ I’m looking to collaborate on Web Developement
 - 📫 How to reach me gokulnath__@Twitter
 
